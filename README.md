@@ -1,3 +1,3 @@
 # rupam-demo
 first Repository
-Author - M Rupam Das
+Author - M Rupam (das)
